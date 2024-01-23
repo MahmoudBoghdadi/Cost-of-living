@@ -1,5 +1,6 @@
 # Cost-of-living
 Power BI project to investigate Cost of living over 215 Country.
+
 This project revolves around the analysis of the cost of living in various cities and countries across the  globe.
 
 I begun an Analysis focusing on these tasks: 
